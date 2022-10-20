@@ -1,5 +1,5 @@
 # Beginner Full-Stack Developer from Belarus, Minsk.
-## I use such technologies and frameworks:
+## I use these technologies and frameworks:
 1. ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 2. ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 3. ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
