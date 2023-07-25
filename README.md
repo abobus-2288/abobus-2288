@@ -17,5 +17,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abobus-2288&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abobus-2288&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abobus-2288&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abobus-2288&theme=github&utcOffset=8)
-
-![Metrics](/github-metrics.svg)
