@@ -17,3 +17,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abobus-2288&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abobus-2288&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abobus-2288&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abobus-2288&theme=github&utcOffset=8)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abobus-2288)](https://github.com/anuraghazra/github-readme-stats)
