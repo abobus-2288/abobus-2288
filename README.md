@@ -18,4 +18,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abobus-2288&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abobus-2288&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abobus-2288&theme=github&utcOffset=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abobus-2288&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=640)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abobus-2288&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=660)](https://git.io/streak-stats)
