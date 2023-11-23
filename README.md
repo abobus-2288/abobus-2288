@@ -14,7 +14,8 @@
 7. ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ## My stats in GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobus-2288&layout=donut-vertical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)\
-[![GitHub Streak](https://streak-stats.demolab.com?user=abobus-2288&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=660)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abobus-2288&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abobus-2288&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abobus-2288&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abobus-2288&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abobus-2288&theme=github_dark&utcOffset=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abobus-2288&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=683&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EugeneLobach)](https://github.com/anuraghazra/github-readme-stats)
